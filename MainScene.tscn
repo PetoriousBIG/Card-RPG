@@ -1,7 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://ycc61q2hv6pp"]
-
-[ext_resource type="PackedScene" uid="uid://bimvpwjrxr0nh" path="res://GameGrid.tscn" id="1_edllx"]
-
-[node name="MainScene" type="Node2D"]
-
-[node name="GameGrid" parent="." instance=ExtResource("1_edllx")]
